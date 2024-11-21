@@ -1,5 +1,7 @@
-video stop:
+- video stop:
 
-next lesson
+- next lesson: 03 Основные типы -> 011 Типы в функциях
 
-github repo:
+- github repo:
+
+https://github.com/sergeybabann/typescript_from_scratch-complete_course_and_design_patterns.original-babann
