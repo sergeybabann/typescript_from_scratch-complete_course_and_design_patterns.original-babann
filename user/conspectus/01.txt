@@ -7,3 +7,4 @@ node app.js
 
 - указание типа данных после двоеточия
 let res: number = revenue + bonus;
+
